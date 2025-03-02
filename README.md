@@ -11,6 +11,6 @@ A simple JavaScript project to interact with Deepseek AI API via OpenRouter.
 - Designed for conversational AI bots
 
 ## Get API Key
-- Got openrouter.ai
+- Go to openrouter.ai
 - Get API key for Deepseek's free Model
 - Insert that key in app.js file
